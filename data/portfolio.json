@@ -1,0 +1,481 @@
+{
+  "personalInfo": {
+    "name": "Jay Chhatrola",
+    "role": "Senior Flutter Engineer",
+    "email": "jaychhatrola27@gmail.com",
+    "gender": "male",
+    "phone": "+91 6354548711",
+    "location": "Ahmedabad, Gujarat, India",
+    "linkedin": "https://www.linkedin.com/in/jay-chhatrola",
+    "github": "https://github.com/jc-27901",
+    "portfolio": "https://medium.com/@jayc69852",
+    "available": true
+  },
+  "tagline": "A seasoned Senior Flutter Engineer dedicated to building high-performance, aesthetically refined, and architecturally sound cross-platform mobile applications that exceed user expectations.",
+  "bio": "Jay Chhatrola is a Senior Flutter Engineer with over 4 years of experience specializing in the development and deployment of complex, production-grade mobile applications. He possesses deep expertise in crafting robust solutions using clean architecture principles, advanced dependency injection, and modularized codebase design. Jay excels at translating intricate business requirements into scalable technical designs, ensuring pixel-perfect UI implementation, and leading projects from initial concept through to successful App Store and Play Store releases. His commitment to quality is evident in his rigorous testing practices and his active role in mentoring junior developers, fostering a culture of excellence and innovation.",
+  "philosophy": [
+    "Prioritizing clean architecture and test-driven development for maintainable and scalable solutions.",
+    "Transforming complex requirements into intuitive, pixel-perfect, and highly responsive user interfaces.",
+    "Fostering collaborative environments through mentorship and clear communication to elevate team capabilities."
+  ],
+  "stats": [
+    {
+      "label": "Years Experience",
+      "value": "4+"
+    },
+    {
+      "label": "Production Apps Shipped",
+      "value": "8+"
+    },
+    {
+      "label": "Architectural Designs Led",
+      "value": "5+"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Dart",
+      "category": "Languages",
+      "proficiency": 95
+    },
+    {
+      "name": "Java",
+      "category": "Languages",
+      "proficiency": 70
+    },
+    {
+      "name": "JavaScript",
+      "category": "Languages",
+      "proficiency": 75
+    },
+    {
+      "name": "Flutter SDK (iOS, Android, Web)",
+      "category": "Mobile Development",
+      "proficiency": 95
+    },
+    {
+      "name": "Flutter Web",
+      "category": "Mobile Development",
+      "proficiency": 90
+    },
+    {
+      "name": "Adaptive Layouts",
+      "category": "Mobile Development",
+      "proficiency": 90
+    },
+    {
+      "name": "CustomPainter",
+      "category": "Mobile Development",
+      "proficiency": 85
+    },
+    {
+      "name": "Pixel-perfect UI",
+      "category": "Mobile Development",
+      "proficiency": 95
+    },
+    {
+      "name": "Clean Architecture",
+      "category": "Architecture & Patterns",
+      "proficiency": 95
+    },
+    {
+      "name": "BLoC / Cubit",
+      "category": "Architecture & Patterns",
+      "proficiency": 90
+    },
+    {
+      "name": "Provider (ChangeNotifier)",
+      "category": "Architecture & Patterns",
+      "proficiency": 85
+    },
+    {
+      "name": "MVVM",
+      "category": "Architecture & Patterns",
+      "proficiency": 80
+    },
+    {
+      "name": "Repository Pattern",
+      "category": "Architecture & Patterns",
+      "proficiency": 90
+    },
+    {
+      "name": "MVC",
+      "category": "Architecture & Patterns",
+      "proficiency": 75
+    },
+    {
+      "name": "GetX",
+      "category": "Architecture & Patterns",
+      "proficiency": 80
+    },
+    {
+      "name": "Riverpod",
+      "category": "Architecture & Patterns",
+      "proficiency": 70
+    },
+    {
+      "name": "getit",
+      "category": "Dependency Injection",
+      "proficiency": 90
+    },
+    {
+      "name": "injectable",
+      "category": "Dependency Injection",
+      "proficiency": 90
+    },
+    {
+      "name": "flutter test",
+      "category": "Testing",
+      "proficiency": 90
+    },
+    {
+      "name": "mockito",
+      "category": "Testing",
+      "proficiency": 85
+    },
+    {
+      "name": "bloctest",
+      "category": "Testing",
+      "proficiency": 85
+    },
+    {
+      "name": "Unit Testing",
+      "category": "Testing",
+      "proficiency": 90
+    },
+    {
+      "name": "Widget Testing",
+      "category": "Testing",
+      "proficiency": 90
+    },
+    {
+      "name": "REST APIs",
+      "category": "Backend & APIs",
+      "proficiency": 90
+    },
+    {
+      "name": "Firebase (Auth, Firestore, FCM, Analytics)",
+      "category": "Backend & APIs",
+      "proficiency": 85
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend & APIs",
+      "proficiency": 70
+    },
+    {
+      "name": "WebSocket",
+      "category": "Backend & APIs",
+      "proficiency": 75
+    },
+    {
+      "name": "Socket.IO",
+      "category": "Backend & APIs",
+      "proficiency": 70
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Backend & APIs",
+      "proficiency": 65
+    },
+    {
+      "name": "MongoDB",
+      "category": "Backend & APIs",
+      "proficiency": 60
+    },
+    {
+      "name": "AWS (EC2, S3, RDS)",
+      "category": "Cloud Platforms",
+      "proficiency": 70
+    },
+    {
+      "name": "GCP",
+      "category": "Cloud Platforms",
+      "proficiency": 65
+    },
+    {
+      "name": "Hive",
+      "category": "Local Storage",
+      "proficiency": 85
+    },
+    {
+      "name": "SQLite",
+      "category": "Local Storage",
+      "proficiency": 75
+    },
+    {
+      "name": "JWT",
+      "category": "Security",
+      "proficiency": 85
+    },
+    {
+      "name": "OAuth 2.0",
+      "category": "Security",
+      "proficiency": 80
+    },
+    {
+      "name": "Firebase Authentication",
+      "category": "Security",
+      "proficiency": 85
+    },
+    {
+      "name": "HIPAA-compliant data handling",
+      "category": "Security",
+      "proficiency": 80
+    },
+    {
+      "name": "Git",
+      "category": "Tools & CI/CD",
+      "proficiency": 90
+    },
+    {
+      "name": "GitHub Actions",
+      "category": "Tools & CI/CD",
+      "proficiency": 85
+    },
+    {
+      "name": "Android Studio",
+      "category": "Tools & CI/CD",
+      "proficiency": 90
+    },
+    {
+      "name": "Xcode",
+      "category": "Tools & CI/CD",
+      "proficiency": 80
+    },
+    {
+      "name": "VS Code",
+      "category": "Tools & CI/CD",
+      "proficiency": 90
+    },
+    {
+      "name": "JIRA",
+      "category": "Tools & CI/CD",
+      "proficiency": 85
+    },
+    {
+      "name": "Trello",
+      "category": "Tools & CI/CD",
+      "proficiency": 75
+    },
+    {
+      "name": "Play Store Connect",
+      "category": "Tools & CI/CD",
+      "proficiency": 90
+    },
+    {
+      "name": "App Store Connect",
+      "category": "Tools & CI/CD",
+      "proficiency": 90
+    },
+    {
+      "name": "Geolocation",
+      "category": "Smartphone APIs",
+      "proficiency": 85
+    },
+    {
+      "name": "Camera",
+      "category": "Smartphone APIs",
+      "proficiency": 90
+    },
+    {
+      "name": "Accelerometer / Sensors",
+      "category": "Smartphone APIs",
+      "proficiency": 85
+    },
+    {
+      "name": "BLE",
+      "category": "Smartphone APIs",
+      "proficiency": 70
+    },
+    {
+      "name": "Contacts",
+      "category": "Smartphone APIs",
+      "proficiency": 70
+    },
+    {
+      "name": "Messaging",
+      "category": "Smartphone APIs",
+      "proficiency": 70
+    }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "name": "Leez — Cross-Platform Property Management SaaS",
+      "shortDescription": "Architected and developed a full-stack, cross-platform rental management SaaS platform, focusing on clean architecture, robust API integration, and secure user workflows.",
+      "longDescription": "Architected a comprehensive cross-platform (iOS, Android, Web) rental management platform from scratch, meticulously defining use cases, repository interfaces, and data-source abstractions to ensure independent testability and scalability, decoupled from the Flutter framework. Leveraged dependency injection via `getit` for all service and repository registrations, enabling thorough unit testing of business logic without UI coupling. Implemented over 40 pixel-perfect screens from Figma wireframes, managed state with 25+ ChangeNotifier providers, and utilized `go_router` for deep-link-aware navigation, including authentication route guards. Developed a sophisticated 6-step lease wizard, integrating Firebase phone OTP for secure signing, canvas-based digital signatures, and JWT + Hive for secure session management alongside FCM push notifications across all application states. Integrated 80+ REST API endpoints and configured GitHub Actions CI/CD for automated flavor-based builds, streamlined deployment to Play Store and App Store Connect, and established daily security audit pipelines, ensuring a robust and secure application lifecycle.",
+      "technologies": [
+        "Flutter",
+        "Clean Architecture",
+        "BLoC",
+        "Provider",
+        "REST APIs",
+        "Firebase",
+        "GitHub Actions",
+        "getit",
+        "ChangeNotifier",
+        "go_router",
+        "Firebase Phone OTP",
+        "Digital Signatures",
+        "JWT",
+        "Hive",
+        "FCM"
+      ],
+      "link": "",
+      "github": "",
+      "featured": true,
+      "color": "#E0F7FA"
+    },
+    {
+      "id": "02",
+      "name": "AiDent — AI-Powered Oral Health Scanner",
+      "shortDescription": "Engineered an advanced AI-powered oral scan module for mobile, integrating smartphone sensors, camera, and voice guidance for a precise 3-step scanning workflow.",
+      "longDescription": "Designed and built a complex AI oral scan module, an innovative component combining smartphone sensor APIs (specifically accelerometer pitch/roll detection), seamless camera integration, a custom `CustomPainter` bubble-level UI for intuitive guidance, and `flutter_tts` voice guidance into a sophisticated 3-step scanning workflow. The architecture was meticulously planned to anticipate future scan-type feature requests, designing the module as a pluggable scan-type system. This foresight allows new scan workflows to be easily integrated without requiring extensive restructuring of the core logic. Successfully published the application to both Play Store and App Store, handling all aspects of the full release pipeline configuration.",
+      "technologies": [
+        "Flutter",
+        "CustomPainter",
+        "sensors_plus",
+        "Camera API",
+        "flutter_tts",
+        "Accelerometer",
+        "AI/ML Integration"
+      ],
+      "link": "",
+      "github": "",
+      "featured": true,
+      "color": "#FFF3E0"
+    },
+    {
+      "id": "03",
+      "name": "fluttereasyselect (Published Flutter Package)",
+      "shortDescription": "Authored and published an open-source Flutter package, simplifying dropdown and multi-select widget integration for the developer community.",
+      "longDescription": "Authored and successfully published `fluttereasyselect`, a widely adopted Flutter package on pub.dev. This package significantly simplifies the integration of sophisticated dropdown and multi-select widgets into Flutter applications, enhancing developer productivity. Its creation demonstrates a deep understanding of Flutter package architecture, robust API design principles, and the importance of clear, comprehensive community documentation, contributing valuable tools back to the Flutter ecosystem.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Package Development",
+        "API Design",
+        "Open Source"
+      ],
+      "link": "",
+      "github": "",
+      "featured": true,
+      "color": "#E8F5E9"
+    },
+    {
+      "id": "04",
+      "name": "Technical Author — Medium (Article: Flutter Device Calendar: Insert Events without Intent)",
+      "shortDescription": "Authored a highly-read technical article on Flutter device calendar integration, demonstrating expertise in complex API usage and clear technical communication.",
+      "longDescription": "Published the technical article 'Flutter Device Calendar: Insert Events without Intent' on Medium, which has garnered over 2,100 reads from fellow developers and was prominently featured in Flutter search results. This achievement highlights a strong ability to articulate complex code logic and advanced Flutter concepts clearly and concisely to a broad technical audience, showcasing not only technical proficiency but also effective knowledge transfer and community engagement.",
+      "technologies": [
+        "Flutter",
+        "Technical Writing",
+        "API Integration",
+        "Content Creation"
+      ],
+      "link": "",
+      "github": "",
+      "featured": false,
+      "color": "#F3E5F5"
+    },
+    {
+      "id": "05",
+      "name": "Google Developer Student Club (GDSC) — CHARUSAT (Mobile Development Lead)",
+      "shortDescription": "Led mobile development initiatives and mentored students at GDSC CHARUSAT, fostering practical skills in Flutter and API integration.",
+      "longDescription": "As the Mobile Development Lead for the Google Developer Student Club (GDSC) at CHARUSAT, Jay spearheaded numerous Flutter workshops, providing hands-on training and guidance to junior developers. He mentored students through complete mobile development projects, focusing on real-world application architecture and robust API integration, directly aligning with industry expectations for guiding and upskilling team members. This role underscored his leadership capabilities and commitment to community development.",
+      "technologies": [
+        "Flutter",
+        "API Integration",
+        "Mentorship",
+        "Technical Leadership",
+        "Workshop Facilitation"
+      ],
+      "link": "",
+      "github": "",
+      "featured": false,
+      "color": "#FCE4EC"
+    }
+  ],
+  "experience": [
+    {
+      "id": "01",
+      "title": "Software Developer — Flutter",
+      "company": "InheritX Solutions",
+      "duration": "May 2025 – Present",
+      "description": "At InheritX Solutions, I independently managed the full lifecycle of client engagements, from initial requirement gathering and comprehensive effort estimation to translating complex business objectives into structured, scalable technical solutions. I specialized in designing and implementing clean architecture with a layered separation of concerns (Presentation, Domain, Data), enabling independent unit testing at every layer without framework coupling. My approach included applying advanced dependency injection using `getit` and `injectable` within a modularized project structure, allowing individual layers to be mocked and tested in complete isolation. A key aspect of my role involved anticipating future feature requirements during the architecture planning phase, designing extensible domain models and repository interfaces that could seamlessly absorb new features with minimal structural changes. I maintained high code quality by writing extensive unit tests for use-case and repository layers, widget tests for UI components, and BLoC state tests using `bloctest` and `mockito`, ensuring robust test coverage across all critical application flows. I consistently converted client wireframes into pixel-perfect, responsive Flutter screens across diverse device form factors, implementing adaptive layouts and custom `CustomPainter` components where standard widgets were insufficient. I integrated various smartphone APIs, including the camera (for the AiDent oral scan module), accelerometer and other sensors, and device storage, to fulfill a wide range of feature requirements. A notable achievement was building the AI-powered oral scan module for AiDent (currently live on Play Store & App Store), which utilized accelerometer pitch/roll detection, a custom bubble-level UI, and a `flutter_tts` voice-guided 3-step scanning workflow. I applied BLoC, Provider, and GetX patterns across projects, selecting the most appropriate architecture based on application complexity, and clearly articulated code logic and architectural decisions in team code reviews. Furthermore, I actively mentored junior Flutter developers, conducting thorough code reviews, guiding best practices in clean architecture and test-driven development, and pair-programming on complex feature implementations. I also contributed significantly to internal technical documentation, sprint documentation, and developer onboarding guides.",
+      "technologies": [
+        "Clean Architecture",
+        "getit",
+        "injectable",
+        "bloctest",
+        "mockito",
+        "CustomPainter",
+        "Camera API",
+        "Accelerometer",
+        "Sensors",
+        "flutter_tts",
+        "BLoC",
+        "Provider",
+        "GetX",
+        "Figma",
+        "Agile",
+        "Mentorship"
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Programmer Analyst — Flutter",
+      "company": "Meditab Software (India) Pvt. Ltd.",
+      "duration": "Dec 2022 – Apr 2025",
+      "description": "At Meditab Software, I was instrumental in designing and delivering critical HIPAA-compliant healthcare applications, including IMS Care, IMS EasySign, and MEM App. My development approach strictly adhered to clean architecture principles, maintaining a rigorous separation between UI, business logic, and data layers to ensure security and scalability. I implemented sophisticated dependency injection patterns, enabling independent unit testing of all business logic components, and developed comprehensive unit and widget test suites to uphold code quality and prevent regressions. I consistently translated detailed UX wireframes into pixel-perfect Flutter screens, ensuring responsive layouts and platform-adaptive behavior across both iOS and Android. A key responsibility involved integrating various smartphone APIs, such as the camera for secure document scanning, Firebase OTP for device authentication, and secure local file access for handling HIPAA-sensitive data workflows. I collaborated extensively with backend and QA teams throughout the full SDLC, designing and consuming over 50 REST API endpoints and performing accurate effort estimations for all assigned sprints. I implemented robust security features including JWT authentication, role-based access control, and secure session management with encrypted local storage, guaranteeing zero data-leakage across all application modules. I successfully managed the end-to-end release of four production applications to the App Store and Play Store, overseeing build configuration, QA sign-off, and store submission processes. Furthermore, I integrated Firebase Authentication, Firestore, FCM push notifications, and Analytics across all production applications to enhance functionality and user engagement. I actively participated in Agile/Scrum sprints using JIRA, and regularly conducted knowledge-transfer sessions, clearly explaining code logic and architectural rationale to team members and new joiners.",
+      "technologies": [
+        "HIPAA Compliance",
+        "Clean Architecture",
+        "Dependency Injection",
+        "Unit Testing",
+        "Widget Testing",
+        "Camera API",
+        "Firebase OTP",
+        "REST API",
+        "JWT",
+        "Firebase Authentication",
+        "Firestore",
+        "FCM",
+        "Analytics",
+        "JIRA",
+        "Agile/Scrum",
+        "UX Wireframes",
+        "SDLC",
+        "Role-Based Access Control"
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Flutter Associate",
+      "company": "DS Infoway",
+      "duration": "May 2022 – Jul 2022",
+      "description": "During my tenure as a Flutter Associate at DS Infoway, I was responsible for developing a dynamic ride-booking Flutter application for a mobility startup. This project involved deep integration of the Google Maps API to provide real-time driver tracking and advanced geolocation services. I also managed all aspects of REST API data handling, ensuring seamless communication between the application and backend services. This experience provided foundational knowledge in building robust, location-aware mobile applications and working with external APIs effectively.",
+      "technologies": [
+        "Flutter",
+        "Google Maps API",
+        "Geolocation Services",
+        "REST API",
+        "Mobile Development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering — Computer Science and Engineering",
+      "institution": "Charotar University of Science and Technology (CHARUSAT)",
+      "year": "2019 – 2023"
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/jc-27901",
+    "linkedin": "https://www.linkedin.com/in/jay-chhatrola",
+    "twitter": "",
+    "email": "jaychhatrola27@gmail.com"
+  }
+}
